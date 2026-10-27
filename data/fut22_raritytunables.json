@@ -1,0 +1,7005 @@
+{
+ "version": 1,
+ "rarities": [
+  {
+   "colorArray": [
+    2826775,
+    4207394,
+    11373918,
+    13214562,
+    15516286,
+    2500906,
+    3422265,
+    11251632,
+    10855845,
+    15329769,
+    4471330,
+    5720619,
+    14073452,
+    14073706,
+    15656355
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    4,
+    5,
+    1
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    4,
+    5,
+    1
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    4,
+    5,
+    1
+   ],
+   "animatedLayer": 0,
+   "version": 4,
+   "id": 0,
+   "name": "\u00c2\u00f3S\u00e0\u00c3l\u0010\u00a3\u00ca\u00a8\u001f\u0017\u0088\u0097\u0005",
+   "levels": true,
+   "colorsPerLevel": 5,
+   "shell": 0,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1558566000,
+   "guid": "929f3299-a61e-4ff1-abda-7663f1c835db",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    3811095,
+    13478770,
+    10320975,
+    2500906,
+    14408925,
+    10395552,
+    4602124,
+    15588742,
+    12035421
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1
+   ],
+   "smallColorIndices": [
+    1,
+    -1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1
+   ],
+   "shineArray": [
+    16772309,
+    15528949,
+    16776166
+   ],
+   "version": 6,
+   "id": 1,
+   "name": "%Y\u00b2[V5\u001eq\u00c9r\u00a6\u00e7\u00c5\u008a\u00e6",
+   "levels": true,
+   "colorsPerLevel": 3,
+   "shell": 1,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1558566000,
+   "guid": "7535d322-3347-4123-a800-cf93bcd5d786",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "version": 0,
+   "id": 2,
+   "name": "LOCK",
+   "type": 0,
+   "levels": false,
+   "bigHead": false,
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    14594934,
+    986895,
+    9006662,
+    15921907,
+    986895,
+    10526881,
+    16769676,
+    986895,
+    7364400
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    -1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    7556151,
+    4674394,
+    7364400
+   ],
+   "version": 8,
+   "id": 3,
+   "name": "m\u001c<\u00d3",
+   "levels": true,
+   "colorsPerLevel": 3,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1588762800,
+   "guid": "39536884-f4a8-4ac1-8962-09ad897ee4ea",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16377088,
+    2819398,
+    16716287
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    13133020
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 4,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1558566000,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    12517133,
+    6817543,
+    1319810
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    15073179
+   ],
+   "animatedLayer": 0,
+   "version": 6,
+   "id": 6,
+   "name": "1lN\n\u0003\u00a2`\u008a\u00fco\u00fd%\u0018\u00d8",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1558566000,
+   "guid": "63290d45-51e6-40c8-ae2a-bc6e5d8affb9",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    15132390,
+    14248224,
+    16563559
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16563559
+   ],
+   "version": 1,
+   "id": 8,
+   "name": "\u0093\u00c0\u0087}W\u0011*\u00e8\u0084n\r\u00d8+\u00b8\u0095\u0005\u00a3\u00c7\u008f8i\u00047\u00e8\u00cc",
+   "levels": false,
+   "shell": 0,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1587761760,
+   "guid": "d7afea18-2465-438b-a423-6cb60bd7f325",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    15132390,
+    2925718,
+    8256495
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    8256495
+   ],
+   "version": 3,
+   "id": 10,
+   "name": "\u008b]\u0093y\u0014\u00a9\u0017\u0006\u00e9",
+   "levels": false,
+   "shell": 1,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1558566000,
+   "guid": "db0fdc29-58e8-4e43-bb1f-e3920e747b84",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    6707254,
+    15000804,
+    10324311
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1
+   ],
+   "shineArray": [
+    16777215
+   ],
+   "version": 5,
+   "id": 12,
+   "name": "j\u00e2\u001bRr\u0002",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1558566000,
+   "guid": "26a75c17-3c46-4bc8-ae53-42e8c60efd92",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    14594934,
+    4918798,
+    9006662,
+    15921907,
+    4918798,
+    10526880,
+    16769676,
+    4918798,
+    12031834
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    15716780,
+    14212320,
+    16115111
+   ],
+   "version": 2,
+   "id": 18,
+   "name": "\u00ffM!g\u00bd\u007f\u000eg\u00c5F%\n\u00ae\u009e\u0001",
+   "levels": true,
+   "colorsPerLevel": 3,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "embargoTime": 1558652400,
+   "guid": "bc05602a-ed36-4129-9a14-605defcc45de",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16767783,
+    1969975,
+    8194975
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16774044
+   ],
+   "animatedLayer": 1,
+   "version": 5,
+   "id": 21,
+   "name": "\u001ez\u0088",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1558652400,
+   "guid": "512edfc4-a195-4145-8a9b-ced3c2d59272",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    64767,
+    5901689,
+    15728895
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16729844
+   ],
+   "version": 3,
+   "id": 24,
+   "name": "p\u00dbN\u00cf\u00df\u009d\u001ft\u00dd\u007f",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "embargoTime": 1558652400,
+   "guid": "23990d90-8dd8-4835-8f3b-987d2aea2607",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    64767,
+    4457847,
+    15728895
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    7733247
+   ],
+   "version": 5,
+   "id": 25,
+   "name": "rd\u0084m\u00ae(\u000b\u0082\u00e9\u00e2\u00a5",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1558566000,
+   "guid": "2126c732-fe7a-4ecf-a0b7-e86e0e7929df",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    12909131,
+    3670114,
+    63231
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    13762154
+   ],
+   "version": 2,
+   "id": 28,
+   "name": "\u00a4\u001e\u00aeQU\u000f\u0015\u0011\u00f1\u00bad\u00a5",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 0,
+   "guid": "e549ef03-1150-4258-bff4-21f7a5e4dfe2",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "version": 0,
+   "id": 29,
+   "name": "RARITY_29",
+   "type": 0,
+   "levels": false,
+   "bigHead": false,
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16119285,
+    1644825,
+    9408399
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16119285
+   ],
+   "version": 14,
+   "id": 42,
+   "name": "[\u0090\u00fc\u00b9\u00ab\u00e9\u001b'\u00cbb3\n$S$",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 0,
+   "guid": "0bdfa8f4-f4ab-4e69-8f27-60466d146528",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    389631,
+    439229,
+    3670849,
+    2480625
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "shineArray": [
+    11924478
+   ],
+   "version": 8,
+   "id": 43,
+   "name": "\u0012\u000b\b\u00afs\u0014\u0013\u00a6",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 0,
+   "guid": "42445ce2-2c51-43ea-a4d9-f074cae2c504",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16753933,
+    2894892,
+    16119285
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16766744
+   ],
+   "version": 5,
+   "id": 44,
+   "name": "\t\u00ec\u00df\u00fb\u0089c\t\u00f2\u00fe\u00c73]5NaI\u0001\u00e6\u00d3\u00f5\u008f",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1591488000,
+   "guid": "4cb980b7-cc22-4ea7-bb98-630f7003281c",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16119285,
+    789516,
+    2760464,
+    16355328
+   ],
+   "expColorIndices": [
+    1,
+    2,
+    2,
+    3,
+    2,
+    2,
+    4,
+    1,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    2,
+    2,
+    3,
+    2,
+    2,
+    4,
+    1,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    2,
+    2,
+    3,
+    2,
+    2,
+    4,
+    1,
+    0
+   ],
+   "shineArray": [
+    16763969
+   ],
+   "version": 3,
+   "id": 45,
+   "name": "\u0000\u0089\u00ba(\u0015\u00cd0\u0011\u00f6\u0005\u00db\u000e\u00c5\u00da\u00b0M \u00a9\u00dc$z\u00dc\b",
+   "levels": false,
+   "shell": 1,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1586390400,
+   "guid": "55ccfc69-3588-4563-9975-ba2e89bfd12a",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    131586,
+    16760065
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    1,
+    0
+   ],
+   "shineArray": [
+    16765753
+   ],
+   "version": 5,
+   "id": 46,
+   "name": "\u0015\u00a2\u00b7\u00ce\u0012o\u000e~\u00c5\u00826\u00e4\u009b&\u008f\\\u001f\u00a8\u00ae\u00cb\u0019o\u0005",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1591660800,
+   "guid": "50f7e882-572e-492b-80dd-64abda62d008",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16119285,
+    13027810,
+    2683,
+    5961692
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "shineArray": [
+    627156
+   ],
+   "version": 2,
+   "id": 47,
+   "name": "\u008d\u00cd\u00cf\u00aa\u00ce@\u0007\u008b\u00f6Q\u00b7\u00bci\u001d\u0085n\u0091\u00c6\u00c1\u00aa\u00d3F\u0006",
+   "levels": false,
+   "shell": 0,
+   "bigHead": false,
+   "untradableOnly": false,
+   "embargoTime": 0,
+   "guid": "ce858ee7-9e09-48c5-a50e-fbf9285ad02b",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16119285,
+    13027810,
+    2683,
+    5961692
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "shineArray": [
+    627156
+   ],
+   "version": 4,
+   "id": 48,
+   "name": "\u00aa\n#\u00d2\u001e\u00d6\u0002\u00f9\u00e6\u00dc\u000fV\u0099\u009a\u00d5\u00cf\u00b6\u0010#\u00cd\u000b",
+   "levels": false,
+   "shell": 1,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 0,
+   "guid": "e942629f-4e9f-4db7-b583-4313d8dd808a",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16119285,
+    13027810,
+    397639,
+    19700
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "shineArray": [
+    467891
+   ],
+   "version": 2,
+   "id": 49,
+   "name": "hB\u0099\u00cd\u00c9U\"\u00c2\u00da}7\u0015{\u00a1\u00c3$Xf\u00b8\u00f9\u008c[\u0005\u00f7\u00fa",
+   "levels": false,
+   "shell": 1,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1586392800,
+   "guid": "3d07df8c-e916-4aa3-b70d-5e7a15d2e368",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16119285,
+    13027810,
+    2632,
+    17367
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "shineArray": [
+    5961692
+   ],
+   "version": 2,
+   "id": 50,
+   "name": "\u00c6\u00d2\u008a\u0013\u00ee\u00da\u0003`\u00f8%^L\u0099\u0004/#\u00da\u00dc\u0082\u0010\u00ff\u00df",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1591574400,
+   "guid": "859acb5e-be93-4c2e-a777-110ddd5b7b6c",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16777215,
+    1317404,
+    4573674
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16777215
+   ],
+   "version": 3,
+   "id": 51,
+   "name": "\u00bf\u009c\u00b2\f~j\u000f\u00fe\u00cf \u00a34B",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1559260800,
+   "guid": "f9d0f35f-3628-4ebd-847f-f07601dfd42e",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    14211288,
+    2368548,
+    6184542
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    15461355
+   ],
+   "version": 2,
+   "id": 52,
+   "name": "_\u0096Si\u0084\u0084\u0011\u0090\u00a7",
+   "levels": false,
+   "shell": 0,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1596584700,
+   "guid": "0dd70120-d0dd-4ea5-95b6-d6b607c07802",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    14211288,
+    2368548,
+    13672808
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    15395562
+   ],
+   "version": 2,
+   "id": 53,
+   "name": "v\u00fa\u00c7l\u001d\u00e6\u0012\u0005\u0085",
+   "levels": false,
+   "shell": 1,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1596584820,
+   "guid": "24bb9525-49bf-4d30-b65a-463671a67f72",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    13607014,
+    2236704,
+    9400651,
+    15253891
+   ],
+   "expColorIndices": [
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    4,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    4,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    4,
+    0
+   ],
+   "shineArray": [
+    16048842
+   ],
+   "version": 2,
+   "id": 54,
+   "name": "\u00f3\to\u00ed3\u0001\u001f\u0080\u00a1",
+   "levels": false,
+   "shell": 1,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1596585300,
+   "guid": "a1483da4-6758-40b5-95da-b5e30705e894",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    14211288,
+    2039583,
+    10066072,
+    13158600
+   ],
+   "expColorIndices": [
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    4,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    4,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    2,
+    2,
+    2,
+    2,
+    2,
+    3,
+    4,
+    0
+   ],
+   "shineArray": [
+    15592941
+   ],
+   "version": 2,
+   "id": 59,
+   "name": "\u009c\u00ae\u00f4\u00cc\u0001\u0017\u001c\u00d3\u0093",
+   "levels": false,
+   "shell": 1,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1596585600,
+   "guid": "ceefa685-554e-43e6-aac8-2ea9587f15e6",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16119285,
+    12238794,
+    9816,
+    26278
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    3,
+    4,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    3,
+    4,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    3,
+    4,
+    0
+   ],
+   "shineArray": [
+    11190502
+   ],
+   "version": 2,
+   "id": 67,
+   "name": "\u00b51\u009a\u00e3\u00f0O\u0005\u008d",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1587692400,
+   "guid": "e57eceae-d002-49de-85a2-b1938ee23108",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16119285,
+    14013909,
+    789516,
+    15962624
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "shineArray": [
+    16756793
+   ],
+   "version": 2,
+   "id": 68,
+   "name": "\u0001\u0002\u0087\b\u0011f\u0014\u008f\u00f5\u00b6A\u00bf\u00ec};\u00da\u0002\u0012\u0094\u0001\u0005n\u000e\u0095\u00e4",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 0,
+   "guid": "4d47c64f-4423-4bdb-b0f7-0ce0a33b648e",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16119285,
+    1652378,
+    16711935
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    8323056
+   ],
+   "version": 3,
+   "id": 69,
+   "name": "\u00f0\u00c7\u00b4\u00e8\u000e^\u0005\u0001\u00fe&\u0011\u00dc`iM\u00bb\u00ec\u00dc\u00b7\u00e6",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 0,
+   "guid": "b38ff5a5-5e17-4a4f-ad79-5d99212e18fe",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16119285,
+    13027810,
+    2683,
+    19700
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    2,
+    1,
+    3,
+    3,
+    4,
+    0
+   ],
+   "shineArray": [
+    5961692
+   ],
+   "version": 3,
+   "id": 70,
+   "name": "\u00d4\u0098'\u00f3/{\u000fu\u00f4\u00bf\u00b46d\u0001",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1591488000,
+   "guid": "97d066be-7f32-403b-a7e0-e0793055a640",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    15962624,
+    1447446,
+    6447714
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    12961221
+   ],
+   "version": 2,
+   "id": 78,
+   "name": "\u0015\u00cc\u00d3/\u00ef\u0090<,\u00d06.\u0013p\u008dZ|%\u00cb\u00f4\u001d\u00aa\u009c=;\u00d2",
+   "levels": false,
+   "shell": 0,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1586393280,
+   "guid": "4089956e-cfd5-495e-bf46-4f5f15ec3d09",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    13499146,
+    1123135,
+    14811162
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    15133059
+   ],
+   "version": 2,
+   "id": 79,
+   "name": "\u00c3:\u00ce3\u00ac\u0019!\u00c9\u00df\u009d\u0013\u009a",
+   "levels": false,
+   "shell": 0,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1585766700,
+   "guid": "93759a7e-8c55-48ae-aaf8-33ab972d3e5f",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    6707254,
+    15000804,
+    10324311
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1
+   ],
+   "shineArray": [
+    16777215
+   ],
+   "version": 1,
+   "id": 84,
+   "name": "\u00deq\u009b\u0080\u0097\u00ce\u0015\u00f9\u0091",
+   "levels": false,
+   "shell": 0,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1587693300,
+   "guid": "8c30c9c9-c397-4ac1-a5c7-156e32fb0a40",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16777182,
+    400162,
+    10939903
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    1
+   ],
+   "shineArray": [
+    15006463
+   ],
+   "version": 3,
+   "id": 86,
+   "name": "\u00dc\u00ec\u001b%V\n\u001f\u00cb\u00a9",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1587694500,
+   "guid": "8ead496c-0253-40f3-9f9f-0b76addb8ce1",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16767783,
+    1315353,
+    14834450
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16777215
+   ],
+   "version": 4,
+   "id": 91,
+   "name": "\u00fb{\n\u00c8\u0097\u00eb\u001dE\u0084",
+   "levels": false,
+   "shell": 0,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1586626740,
+   "guid": "a93a5881-c3b2-427c-b5b2-4c2510e282d0",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    5382553,
+    16770048,
+    16711892,
+    10230555
+   ],
+   "expColorIndices": [
+    1,
+    2,
+    1,
+    2,
+    2,
+    2,
+    3,
+    4,
+    1
+   ],
+   "collColorIndices": [
+    1,
+    2,
+    -1,
+    1,
+    2,
+    2,
+    3,
+    4,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    -1,
+    -1,
+    1,
+    -1,
+    2,
+    3,
+    4,
+    1
+   ],
+   "shineArray": [
+    16770048
+   ],
+   "animatedLayer": 0,
+   "version": 1,
+   "id": 99,
+   "name": "-\t\u0013\u008b\u0005\u009a\u0018\u00e5\u00c6\u0007\u009f\u00ec\u00c2",
+   "levels": false,
+   "shell": 1,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1593079200,
+   "guid": "7b687de2-71e3-47b7-a775-f698bb618ad6",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    15132390,
+    3815994
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    1,
+    0
+   ],
+   "shineArray": [
+    15132390
+   ],
+   "version": 0,
+   "id": 999,
+   "name": "DEFAULT",
+   "levels": false,
+   "shell": 1,
+   "bigHead": false,
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    2177279
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    2177279
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 5,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16655799
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16655799
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 9,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    1835005
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    1835005
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 11,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16722595
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16722595
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 16,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    12517146
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    12517146
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 22,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16718591
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16718591
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 30,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    1710618,
+    16119285,
+    2290678
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    2290678
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 56,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    13303552
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    13303552
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 57,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    15659246
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    15659246
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 58,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    1849335
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    1849335
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 64,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    1834987
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    1834987
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 65,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    62975
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    62975
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 71,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16732723
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16732723
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 72,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    1710618,
+    16119285,
+    1421567
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    1421567
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 76,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16239862
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16239862
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 87,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    1710618,
+    16119285,
+    10062680
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    10062680
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 89,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    15590144
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    15590144
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 90,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    1710618,
+    16119285,
+    11575415
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    11575415
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 92,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    1710618,
+    16119285,
+    4996639
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    4996639
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 93,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16727322
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16727322
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 95,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16727322
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16727322
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 96,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    5177256
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    5177256
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 97,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16567546
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16567546
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 98,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    1710618,
+    16119285,
+    15589576
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    15589576
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 100,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    10027218
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    10027218
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 101,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    13862400
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    13862400
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 102,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    149250
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    149250
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 103,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    4849498
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    4849498
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 104,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    1769264
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    1769264
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 105,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    1710618,
+    16119285,
+    14548868
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    14548868
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 106,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    1710618,
+    16119285,
+    16750106
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16750106
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 107,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    12048383
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    12048383
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 108,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    14598515
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    14598515
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 110,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    2818037
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    2818037
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 114,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    14550587
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    14550587
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 115,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16749171
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16749171
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 116,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    1710618,
+    16119285,
+    16729584
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16729584
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 117,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16703372
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16703372
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 118,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    932400
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    932400
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 120,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    5111935
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    5111935
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 123,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    13114111
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    13114111
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 124,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16752154
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16752154
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 125,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    1769265
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    1769265
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 126,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    1710618,
+    16119285,
+    15410431
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    15410431
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 127,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    1710618,
+    16119285,
+    15070451
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    15070451
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 130,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    7112190
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    7112190
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 134,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    10372096
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    10372096
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 136,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    11337721
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    11337721
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 137,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    22715
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    22715
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 142,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16774840
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16774840
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 143,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16724322
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16724322
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 144,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16726372
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16726372
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 147,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16774666
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16774666
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 172,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    6029222
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    6029222
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 173,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  },
+  {
+   "colorArray": [
+    16777215,
+    986895,
+    16719516
+   ],
+   "expColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "collColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "smallColorIndices": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    3,
+    0
+   ],
+   "shineArray": [
+    16719516
+   ],
+   "animatedLayer": 0,
+   "version": 3,
+   "id": 174,
+   "name": "\u00bdP\u0017\u00e3",
+   "levels": false,
+   "shell": 2,
+   "bigHead": false,
+   "untradableOnly": false,
+   "hide": false,
+   "embargoTime": 1,
+   "guid": "f51545ac-1fca-4420-bb14-9b695024e14d",
+   "smallItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "collapsedItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "largeItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "jumboItemCRC": [
+    0,
+    0,
+    0
+   ],
+   "colorsPerLevel": 3
+  }
+ ]
+}

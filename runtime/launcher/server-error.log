@@ -1,0 +1,5 @@
+2026-09-29 20:21:53,543 walkout_request_cleared {"reason": "startup"}
+2026-09-29 20:21:53,571 player_pick_inject {"reason": "startup", "pending": 0, "choices": 0, "pile": 0}
+2026-09-29 20:21:53,588 services_started {"http": 18222, "blaze": 18221, "redirector": 42230, "qos": 17502, "preauth_qos": true, "tls": false}
+2026-09-29 20:21:54,054 http_request {"request_id": "25d6c2c99600682f", "method": "GET", "path": "/localfut22/status", "body_bytes": 0}
+2026-09-29 20:21:54,169 http_request {"request_id": "d706e1ab2c165e98", "method": "GET", "path": "/localfut22/status", "body_bytes": 0}

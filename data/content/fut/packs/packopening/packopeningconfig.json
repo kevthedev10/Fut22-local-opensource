@@ -1,0 +1,2394 @@
+{
+    "grandStandPlayers": [
+        238388,
+        4000,
+        238387,
+        190042,
+        237073,
+        237074,
+        190043,
+        237067,
+        237068,
+        37576,
+        237063,
+        237064,
+        209331
+    ],
+    "grandNotStandPlayers": [
+        1
+    ],
+    "walkOutPlayerType": [
+        {
+            "grandStandPlayers": [
+                238388,
+                4000,
+                238387
+            ],
+            "walkOutBucketId": 3
+        },
+        {
+            "grandStandPlayers": [
+                190042,
+                237073,
+                237074
+            ],
+            "walkOutBucketId": 4
+        },
+        {
+            "grandStandPlayers": [
+                190043,
+                237067,
+                237068
+            ],
+            "walkOutBucketId": 5
+        },
+        {
+            "grandStandPlayers": [
+                37576,
+                237063,
+                237064
+            ],
+            "walkOutBucketId": 7
+        },
+        {
+            "grandStandPlayers": [
+                209331
+            ],
+            "walkOutBucketId": 8
+        }
+    ],
+    "seasonalFX": [],
+    "rangeValue": [
+        {
+            "rarity": 0,
+            "totalRanges": 3,
+            "isShowDescription": 0,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    64
+                ],
+                [
+                    65,
+                    74
+                ],
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 1,
+            "totalRanges": 9,
+            "isShowDescription": 0,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    63
+                ],
+                [
+                    64,
+                    64
+                ],
+                [
+                    65,
+                    73
+                ],
+                [
+                    74,
+                    74
+                ],
+                [
+                    75,
+                    79
+                ],
+                [
+                    80,
+                    82
+                ],
+                [
+                    83,
+                    85
+                ],
+                [
+                    86,
+                    87
+                ],
+                [
+                    88,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 3,
+            "totalRanges": 7,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    64
+                ],
+                [
+                    65,
+                    74
+                ],
+                [
+                    75,
+                    79
+                ],
+                [
+                    80,
+                    83
+                ],
+                [
+                    84,
+                    87
+                ],
+                [
+                    88,
+                    89
+                ],
+                [
+                    90,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 4,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    83
+                ],
+                [
+                    84,
+                    89
+                ],
+                [
+                    90,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 5,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 6,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    80
+                ],
+                [
+                    81,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 7,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    64
+                ],
+                [
+                    65,
+                    74
+                ],
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 8,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    83
+                ],
+                [
+                    84,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 9,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 10,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    81,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 11,
+            "totalRanges": 2,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    74,
+                    82
+                ],
+                [
+                    83,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 12,
+            "totalRanges": 2,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    89
+                ],
+                [
+                    90,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 16,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 18,
+            "totalRanges": 6,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    64
+                ],
+                [
+                    65,
+                    74
+                ],
+                [
+                    75,
+                    79
+                ],
+                [
+                    80,
+                    83
+                ],
+                [
+                    84,
+                    86
+                ],
+                [
+                    87,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 21,
+            "totalRanges": 5,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    64
+                ],
+                [
+                    65,
+                    74
+                ],
+                [
+                    75,
+                    83
+                ],
+                [
+                    84,
+                    89
+                ],
+                [
+                    90,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 22,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    64
+                ],
+                [
+                    65,
+                    74
+                ],
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 24,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 25,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 28,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 30,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    85
+                ],
+                [
+                    86,
+                    89
+                ],
+                [
+                    90,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 29,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 31,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 32,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 42,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 43,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 44,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 45,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 46,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 47,
+            "totalRanges": 9,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    63
+                ],
+                [
+                    64,
+                    64
+                ],
+                [
+                    65,
+                    73
+                ],
+                [
+                    74,
+                    74
+                ],
+                [
+                    75,
+                    79
+                ],
+                [
+                    80,
+                    82
+                ],
+                [
+                    83,
+                    85
+                ],
+                [
+                    86,
+                    89
+                ],
+                [
+                    90,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 48,
+            "totalRanges": 6,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    64
+                ],
+                [
+                    65,
+                    74
+                ],
+                [
+                    75,
+                    79
+                ],
+                [
+                    80,
+                    83
+                ],
+                [
+                    84,
+                    87
+                ],
+                [
+                    88,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 49,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    83
+                ],
+                [
+                    84,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 50,
+            "totalRanges": 4,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    64
+                ],
+                [
+                    65,
+                    74
+                ],
+                [
+                    75,
+                    83
+                ],
+                [
+                    84,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 51,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    83
+                ],
+                [
+                    84,
+                    89
+                ],
+                [
+                    90,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 52,
+            "totalRanges": 9,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    63
+                ],
+                [
+                    64,
+                    64
+                ],
+                [
+                    65,
+                    73
+                ],
+                [
+                    74,
+                    74
+                ],
+                [
+                    75,
+                    79
+                ],
+                [
+                    80,
+                    82
+                ],
+                [
+                    83,
+                    85
+                ],
+                [
+                    86,
+                    87
+                ],
+                [
+                    88,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 53,
+            "totalRanges": 9,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    63
+                ],
+                [
+                    64,
+                    64
+                ],
+                [
+                    65,
+                    73
+                ],
+                [
+                    74,
+                    74
+                ],
+                [
+                    75,
+                    79
+                ],
+                [
+                    80,
+                    82
+                ],
+                [
+                    83,
+                    85
+                ],
+                [
+                    86,
+                    89
+                ],
+                [
+                    90,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 54,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    83
+                ],
+                [
+                    84,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 56,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 57,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 58,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 59,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 64,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 65,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    80
+                ],
+                [
+                    81,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 67,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 68,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 69,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 70,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 71,
+            "totalRanges": 5,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    64
+                ],
+                [
+                    65,
+                    74
+                ],
+                [
+                    75,
+                    83
+                ],
+                [
+                    84,
+                    89
+                ],
+                [
+                    90,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 72,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    84
+                ],
+                [
+                    85,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 75,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    84
+                ],
+                [
+                    85,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 76,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 78,
+            "totalRanges": 9,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    63
+                ],
+                [
+                    64,
+                    64
+                ],
+                [
+                    65,
+                    73
+                ],
+                [
+                    74,
+                    74
+                ],
+                [
+                    75,
+                    79
+                ],
+                [
+                    80,
+                    82
+                ],
+                [
+                    83,
+                    85
+                ],
+                [
+                    86,
+                    87
+                ],
+                [
+                    88,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 79,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 81,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 82,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 84,
+            "totalRanges": 2,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    89
+                ],
+                [
+                    90,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 85,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    84
+                ],
+                [
+                    85,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 86,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 87,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 89,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 90,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 91,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 92,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 93,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 94,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 95,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 96,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 98,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 99,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 100,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 101,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 102,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 103,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 104,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 105,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 106,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 107,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 110,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 114,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 115,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    85
+                ],
+                [
+                    86,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 108,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    84
+                ],
+                [
+                    85,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 116,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    84
+                ],
+                [
+                    85,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 117,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    84
+                ],
+                [
+                    85,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 118,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    84
+                ],
+                [
+                    85,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 119,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    84
+                ],
+                [
+                    85,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 120,
+            "totalRanges": 1,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 124,
+            "totalRanges": 4,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    64
+                ],
+                [
+                    65,
+                    74
+                ],
+                [
+                    75,
+                    83
+                ],
+                [
+                    84,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 125,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    83
+                ],
+                [
+                    84,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 126,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    64,
+                    74
+                ],
+                [
+                    75,
+                    83
+                ],
+                [
+                    84,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 130,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    64
+                ],
+                [
+                    65,
+                    74
+                ],
+                [
+                    75,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 134,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    85
+                ],
+                [
+                    86,
+                    87
+                ],
+                [
+                    88,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 136,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    85
+                ],
+                [
+                    86,
+                    87
+                ],
+                [
+                    88,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 137,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    84
+                ],
+                [
+                    85,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 172,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    84
+                ],
+                [
+                    85,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 97,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    84
+                ],
+                [
+                    85,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 173,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    84
+                ],
+                [
+                    85,
+                    99
+                ]
+            ]
+        },
+        {
+            "rarity": 174,
+            "totalRanges": 3,
+            "isShowDescription": 1,
+            "isTriggerPOA": 1,
+            "isOverrideRating": 0,
+            "overriddenRating": 0,
+            "range": [
+                [
+                    0,
+                    74
+                ],
+                [
+                    75,
+                    84
+                ],
+                [
+                    85,
+                    99
+                ]
+            ]
+        }
+    ],
+    "kitRangeValue": [
+        {
+            "rarity": 1,
+            "totalRanges": 4,
+            "range": [
+                [
+                    0,
+                    64
+                ],
+                [
+                    65,
+                    74
+                ],
+                [
+                    75,
+                    98
+                ],
+                [
+                    99,
+                    99
+                ]
+            ]
+        }
+    ],
+    "vanityItemList": [
+        {
+            "vanityId": 9,
+            "vanityPriority": 3,
+            "assetId": "kits",
+            "icon": 135,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 11,
+            "vanityPriority": 2,
+            "assetId": "crest",
+            "icon": 39,
+            "imageFormat": true
+        },
+        {
+            "vanityId": 30,
+            "vanityPriority": 2,
+            "assetId": "balls",
+            "icon": 37,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 520,
+            "vanityPriority": 2,
+            "assetId": "celebration",
+            "icon": 68,
+            "imageFormat": true
+        },
+        {
+            "vanityId": 500,
+            "vanityPriority": 3,
+            "assetId": "tifo",
+            "icon": 66,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 502,
+            "vanityPriority": 3,
+            "assetId": "tifo",
+            "icon": 66,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 503,
+            "vanityPriority": 3,
+            "assetId": "tifo",
+            "icon": 66,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 504,
+            "vanityPriority": 3,
+            "assetId": "theme",
+            "icon": 65,
+            "imageFormat": true
+        },
+        {
+            "vanityId": 508,
+            "vanityPriority": 3,
+            "assetId": "PITCH_PROP",
+            "icon": 75,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 505,
+            "vanityPriority": 2,
+            "assetId": "MOW_PATTERN",
+            "icon": 74,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 506,
+            "vanityPriority": 2,
+            "assetId": "LINE_COLOR",
+            "icon": 73,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 509,
+            "vanityPriority": 2,
+            "assetId": "STADIUM_COLOR",
+            "icon": 79,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 510,
+            "vanityPriority": 2,
+            "assetId": "SEAT_COLOR",
+            "icon": 78,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 507,
+            "vanityPriority": 2,
+            "assetId": "GOAL_PACKAGE",
+            "icon": 72,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 511,
+            "vanityPriority": 3,
+            "assetId": "PYROTECHNIC",
+            "icon": 77,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 512,
+            "vanityPriority": 3,
+            "assetId": "PYROTECHNIC",
+            "icon": 77,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 513,
+            "vanityPriority": 3,
+            "assetId": "PYROTECHNIC",
+            "icon": 77,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 514,
+            "vanityPriority": 3,
+            "assetId": "PYROTECHNIC",
+            "icon": 77,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 516,
+            "vanityPriority": 3,
+            "assetId": "AUDIO_ANTHEM",
+            "icon": 70,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 517,
+            "vanityPriority": 3,
+            "assetId": "AUDIO_GOAL",
+            "icon": 70,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 518,
+            "vanityPriority": 3,
+            "assetId": "AUDIO_NICKNAME",
+            "icon": 70,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 519,
+            "vanityPriority": 3,
+            "assetId": "AUDIO_CHANT",
+            "icon": 70,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 521,
+            "vanityPriority": 2,
+            "assetId": "TINTED_BANNER",
+            "icon": 83,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 522,
+            "vanityPriority": 2,
+            "assetId": "POLE_BANNER",
+            "icon": 82,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 523,
+            "vanityPriority": 3,
+            "assetId": "CROWD_CARD",
+            "icon": 81,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 524,
+            "vanityPriority": 3,
+            "assetId": "VIP_AREA",
+            "icon": 84,
+            "imageFormat": false
+        },
+        {
+            "vanityId": 10,
+            "vanityPriority": 3,
+            "assetId": "STADIUM_ITEM",
+            "icon": 36,
+            "imageFormat": false
+        }
+    ]
+}

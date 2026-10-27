@@ -1,0 +1,17 @@
+FIFA 22 Local FUT - Windows portable package
+
+1. Extract this entire ZIP to a normal folder. Keep the data, localfut22,
+   network-proxy, and vendor folders next to Start-Local-FUT.cmd.
+2. Have FIFA 22 installed through Steam or the EA app. Double-click
+   Start-Local-FUT.cmd. The first run unpacks the bundled server runtime,
+   checks your FIFA 22 build, installs the connector files, and starts the
+   local service. No separate Python installation is needed.
+3. For Steam, the launcher starts FIFA 22. For an EA app installation, it
+   opens the EA app; click Play on FIFA 22 in your Library.
+4. If the game folder is not found, drag the folder containing FIFA22.exe
+   onto Start-Local-FUT.cmd.
+
+Leave the launcher window open while playing. Closing FIFA 22 stops the
+local service. A fresh club is created for this copy; no other person's
+club save is included. This connector supports the FIFA 22 executable
+build checked by Install-Network-Proxy.ps1.

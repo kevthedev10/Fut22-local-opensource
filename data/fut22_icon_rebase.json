@@ -1,0 +1,2080 @@
+{
+ "_why": [
+  "ICON REBASE - Ronaldo's card scheme applied to icons. Jakub's find.",
+  "Ronaldo is ONE assetId + 8 revisions, so the client derives that one",
+  "assetId and names every variation. An icon is four assetIds at",
+  "revision 0, so each must be named alone and the client only knows",
+  "some of them - which is the STOCKDALE / blank-name bug.",
+  "",
+  "Each player's LOWEST-rated version is the ANCHOR and is untouched;",
+  "every other version is served as (revision << 24) | anchor_assetId.",
+  "",
+  "INVENTED: the resourceId, and nothing else. Player, rating, promo,",
+  "shell, art, stats and position are exactly as the archive has them.",
+  "fut22_specials.json is NEVER modified - this is applied at serve",
+  "time by fut_special_item, and deleting this file reverts it.",
+  "",
+  "Regenerate with tools/iconrebase.py after any change to the",
+  "specials archive, or the anchors may no longer match."
+ ],
+ "map": {
+  "51": {
+   "anchor": 239599,
+   "revision": 4,
+   "player": "Shearer",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "240": {
+   "anchor": 239601,
+   "revision": 4,
+   "player": "Keane",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "241": {
+   "anchor": 239520,
+   "revision": 4,
+   "player": "Giggs",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "246": {
+   "anchor": 239539,
+   "revision": 4,
+   "player": "Scholes",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "250": {
+   "anchor": 258779,
+   "revision": 4,
+   "player": "Beckham",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "570": {
+   "anchor": 239108,
+   "revision": 4,
+   "player": "Okocha",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "942": {
+   "anchor": 239518,
+   "revision": 3,
+   "player": "VIERI",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "1025": {
+   "anchor": 238432,
+   "revision": 4,
+   "player": "Rui Costa",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "1040": {
+   "anchor": 237071,
+   "revision": 3,
+   "player": "CARLOS",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "1041": {
+   "anchor": 239516,
+   "revision": 4,
+   "player": "Zanetti",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "1088": {
+   "anchor": 239063,
+   "revision": 4,
+   "player": "Nesta",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "1114": {
+   "anchor": 243079,
+   "revision": 4,
+   "player": "Baggio",
+   "rating": 93,
+   "promo": "legend"
+  },
+  "1116": {
+   "anchor": 239525,
+   "revision": 4,
+   "player": "Desailly",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "1183": {
+   "anchor": 239064,
+   "revision": 4,
+   "player": "Cannavaro",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "1198": {
+   "anchor": 239072,
+   "revision": 4,
+   "player": "Inzaghi",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "1201": {
+   "anchor": 239110,
+   "revision": 4,
+   "player": "Zola",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "1256": {
+   "anchor": 242928,
+   "revision": 4,
+   "player": "Seedorf",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "1397": {
+   "anchor": 248449,
+   "revision": 4,
+   "player": "Zidane",
+   "rating": 96,
+   "promo": "legend"
+  },
+  "1419": {
+   "anchor": 238426,
+   "revision": 3,
+   "player": "VIEIRA",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "1605": {
+   "anchor": 239070,
+   "revision": 4,
+   "player": "Pirès",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "1620": {
+   "anchor": 238415,
+   "revision": 4,
+   "player": "Petit",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "1625": {
+   "anchor": 237062,
+   "revision": 4,
+   "player": "Henry",
+   "rating": 93,
+   "promo": "legend"
+  },
+  "1668": {
+   "anchor": 242858,
+   "revision": 4,
+   "player": "Makélélé",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "3647": {
+   "anchor": 243783,
+   "revision": 4,
+   "player": "Ballack",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "4000": {
+   "anchor": 238387,
+   "revision": 3,
+   "player": "Bergkamp",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "4202": {
+   "anchor": 243031,
+   "revision": 3,
+   "player": "GATTUSO",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "4231": {
+   "anchor": 242951,
+   "revision": 4,
+   "player": "Rivaldo",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "4833": {
+   "anchor": 239541,
+   "revision": 4,
+   "player": "Stoichkov",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "5003": {
+   "anchor": 260816,
+   "revision": 4,
+   "player": "Cafú",
+   "rating": 93,
+   "promo": "legend"
+  },
+  "5419": {
+   "anchor": 239083,
+   "revision": 4,
+   "player": "Owen",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "5471": {
+   "anchor": 242929,
+   "revision": 4,
+   "player": "Lampard",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "5589": {
+   "anchor": 239081,
+   "revision": 4,
+   "player": "Luís Figo",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "5673": {
+   "anchor": 239115,
+   "revision": 4,
+   "player": "Litmanen",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "5681": {
+   "anchor": 238442,
+   "revision": 3,
+   "player": "OVERMARS",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "5984": {
+   "anchor": 242861,
+   "revision": 4,
+   "player": "Trezeguet",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "7289": {
+   "anchor": 237065,
+   "revision": 4,
+   "player": "Ferdinand",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "7512": {
+   "anchor": 238419,
+   "revision": 4,
+   "player": "Crespo",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "7518": {
+   "anchor": 237603,
+   "revision": 3,
+   "player": "VERÓN",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "7763": {
+   "anchor": 247616,
+   "revision": 4,
+   "player": "Pirlo",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "9676": {
+   "anchor": 255357,
+   "revision": 4,
+   "player": "Eto'o",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "10264": {
+   "anchor": 239532,
+   "revision": 3,
+   "player": "van Nistelrooy",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "10535": {
+   "anchor": 255909,
+   "revision": 4,
+   "player": "Xavi",
+   "rating": 93,
+   "promo": "legend"
+  },
+  "13128": {
+   "anchor": 239419,
+   "revision": 4,
+   "player": "Shevchenko",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "13383": {
+   "anchor": 242626,
+   "revision": 3,
+   "player": "Nakata",
+   "rating": 86,
+   "promo": "legend"
+  },
+  "13743": {
+   "anchor": 242932,
+   "revision": 4,
+   "player": "Gerrard",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "23174": {
+   "anchor": 254570,
+   "revision": 4,
+   "player": "Riquelme",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "28130": {
+   "anchor": 238706,
+   "revision": 4,
+   "player": "Ronaldinho",
+   "rating": 94,
+   "promo": "legend"
+  },
+  "31432": {
+   "anchor": 247693,
+   "revision": 4,
+   "player": "Drogba",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "34079": {
+   "anchor": 255354,
+   "revision": 4,
+   "player": "Cole",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "37576": {
+   "anchor": 237063,
+   "revision": 4,
+   "player": "Ronaldo",
+   "rating": 96,
+   "promo": "legend"
+  },
+  "45661": {
+   "anchor": 242940,
+   "revision": 4,
+   "player": "Raúl",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "45674": {
+   "anchor": 247305,
+   "revision": 4,
+   "player": "Essien",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "48940": {
+   "anchor": 256431,
+   "revision": 4,
+   "player": "Čech",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "49369": {
+   "anchor": 256870,
+   "revision": 4,
+   "player": "Torres",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "52241": {
+   "anchor": 239262,
+   "revision": 3,
+   "player": "LARSSON",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "53769": {
+   "anchor": 239027,
+   "revision": 4,
+   "player": "Deco",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "121939": {
+   "anchor": 256153,
+   "revision": 4,
+   "player": "Lahm",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "121944": {
+   "anchor": 256338,
+   "revision": 4,
+   "player": "Schweinsteiger",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "138449": {
+   "anchor": 247074,
+   "revision": 4,
+   "player": "Kaká",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "140601": {
+   "anchor": 255757,
+   "revision": 4,
+   "player": "Vidić",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "156353": {
+   "anchor": 238421,
+   "revision": 4,
+   "player": "Hernández",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "161840": {
+   "anchor": 239067,
+   "revision": 4,
+   "player": "Hierro",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "166124": {
+   "anchor": 239056,
+   "revision": 4,
+   "player": "Hagi",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "166149": {
+   "anchor": 247549,
+   "revision": 4,
+   "player": "Sánchez",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "166906": {
+   "anchor": 239527,
+   "revision": 4,
+   "player": "Baresi",
+   "rating": 93,
+   "promo": "legend"
+  },
+  "167135": {
+   "anchor": 247327,
+   "revision": 4,
+   "player": "Capita",
+   "rating": 93,
+   "promo": "legend"
+  },
+  "167198": {
+   "anchor": 255476,
+   "revision": 4,
+   "player": "Cantona",
+   "rating": 93,
+   "promo": "legend"
+  },
+  "167680": {
+   "anchor": 247303,
+   "revision": 4,
+   "player": "Koeman",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "190042": {
+   "anchor": 237073,
+   "revision": 4,
+   "player": "Maradona",
+   "rating": 97,
+   "promo": "legend"
+  },
+  "190044": {
+   "anchor": 239530,
+   "revision": 4,
+   "player": "Moore",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "190045": {
+   "anchor": 242521,
+   "revision": 4,
+   "player": "Cruyff",
+   "rating": 94,
+   "promo": "legend"
+  },
+  "190046": {
+   "anchor": 242517,
+   "revision": 4,
+   "player": "Sócrates",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "190053": {
+   "anchor": 238429,
+   "revision": 3,
+   "player": "Schmeichel",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "191189": {
+   "anchor": 238436,
+   "revision": 3,
+   "player": "MATTHÄUS",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "191695": {
+   "anchor": 239603,
+   "revision": 4,
+   "player": "Butragueño",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "192181": {
+   "anchor": 239055,
+   "revision": 3,
+   "player": "van Basten",
+   "rating": 93,
+   "promo": "legend"
+  },
+  "214098": {
+   "anchor": 239422,
+   "revision": 4,
+   "player": "Rijkaard",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "214100": {
+   "anchor": 238433,
+   "revision": 4,
+   "player": "Gullit",
+   "rating": 93,
+   "promo": "legend"
+  },
+  "214267": {
+   "anchor": 239524,
+   "revision": 4,
+   "player": "Lineker",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "214649": {
+   "anchor": 257416,
+   "revision": 4,
+   "player": "Šuker",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "222000": {
+   "anchor": 239058,
+   "revision": 4,
+   "player": "Laudrup",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "226764": {
+   "anchor": 238437,
+   "revision": 4,
+   "player": "Best",
+   "rating": 93,
+   "promo": "legend"
+  },
+  "237064": {
+   "anchor": 237063,
+   "revision": 3,
+   "player": "RONALDO",
+   "rating": 94,
+   "promo": "legend"
+  },
+  "237066": {
+   "anchor": 237065,
+   "revision": 3,
+   "player": "FERDINAND",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "237067": {
+   "anchor": 190043,
+   "revision": 4,
+   "player": "Pelé",
+   "rating": 98,
+   "promo": "legend"
+  },
+  "237068": {
+   "anchor": 190043,
+   "revision": 3,
+   "player": "PELÉ",
+   "rating": 95,
+   "promo": "legend"
+  },
+  "237069": {
+   "anchor": 237062,
+   "revision": 3,
+   "player": "Henry",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "237074": {
+   "anchor": 237073,
+   "revision": 3,
+   "player": "MARADONA",
+   "rating": 95,
+   "promo": "legend"
+  },
+  "238193": {
+   "anchor": 238381,
+   "revision": 3,
+   "player": "YASHIN",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "238380": {
+   "anchor": 238381,
+   "revision": 4,
+   "player": "Yashin",
+   "rating": 94,
+   "promo": "legend"
+  },
+  "238382": {
+   "anchor": 1075,
+   "revision": 3,
+   "player": "Del Piero",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "238384": {
+   "anchor": 13038,
+   "revision": 4,
+   "player": "Puyol",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "238386": {
+   "anchor": 13038,
+   "revision": 3,
+   "player": "Puyol",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "238388": {
+   "anchor": 238387,
+   "revision": 4,
+   "player": "Bergkamp",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "238395": {
+   "anchor": 238706,
+   "revision": 3,
+   "player": "RONALDINHO",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "238414": {
+   "anchor": 238415,
+   "revision": 3,
+   "player": "PETIT",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "238418": {
+   "anchor": 238419,
+   "revision": 3,
+   "player": "CRESPO",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "238420": {
+   "anchor": 238421,
+   "revision": 3,
+   "player": "HERNÁNDEZ",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "238424": {
+   "anchor": 5680,
+   "revision": 4,
+   "player": "Kluivert",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "238425": {
+   "anchor": 5680,
+   "revision": 3,
+   "player": "KLUIVERT",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "238427": {
+   "anchor": 238426,
+   "revision": 4,
+   "player": "Vieira",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "238428": {
+   "anchor": 238429,
+   "revision": 4,
+   "player": "Schmeichel",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "238430": {
+   "anchor": 237071,
+   "revision": 4,
+   "player": "Carlos",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "238431": {
+   "anchor": 238432,
+   "revision": 3,
+   "player": "RUI COSTA",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "238434": {
+   "anchor": 238433,
+   "revision": 3,
+   "player": "Gullit",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "238435": {
+   "anchor": 238436,
+   "revision": 4,
+   "player": "Matthäus",
+   "rating": 93,
+   "promo": "legend"
+  },
+  "238438": {
+   "anchor": 238437,
+   "revision": 3,
+   "player": "Best",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "238439": {
+   "anchor": 1109,
+   "revision": 4,
+   "player": "Maldini",
+   "rating": 94,
+   "promo": "legend"
+  },
+  "238440": {
+   "anchor": 1109,
+   "revision": 3,
+   "player": "MALDINI",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "238441": {
+   "anchor": 238442,
+   "revision": 4,
+   "player": "Overmars",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "238443": {
+   "anchor": 222481,
+   "revision": 4,
+   "player": "Blanc",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "238444": {
+   "anchor": 222481,
+   "revision": 3,
+   "player": "BLANC",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "239026": {
+   "anchor": 239027,
+   "revision": 3,
+   "player": "DECO",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "239057": {
+   "anchor": 239056,
+   "revision": 3,
+   "player": "HAGI",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "239059": {
+   "anchor": 239058,
+   "revision": 3,
+   "player": "LAUDRUP",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "239061": {
+   "anchor": 239060,
+   "revision": 3,
+   "player": "SAR",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "239062": {
+   "anchor": 239063,
+   "revision": 3,
+   "player": "Nesta",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "239065": {
+   "anchor": 239064,
+   "revision": 3,
+   "player": "CANNAVARO",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "239068": {
+   "anchor": 239067,
+   "revision": 3,
+   "player": "HIERRO",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "239069": {
+   "anchor": 239070,
+   "revision": 3,
+   "player": "PIRÈS",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "239071": {
+   "anchor": 239072,
+   "revision": 3,
+   "player": "INZAGHI",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "239080": {
+   "anchor": 239081,
+   "revision": 3,
+   "player": "Luís Figo",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "239082": {
+   "anchor": 239083,
+   "revision": 3,
+   "player": "OWEN",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "239109": {
+   "anchor": 239108,
+   "revision": 3,
+   "player": "OKOCHA",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "239111": {
+   "anchor": 239110,
+   "revision": 3,
+   "player": "ZOLA",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "239114": {
+   "anchor": 239115,
+   "revision": 3,
+   "player": "LITMANEN",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "239261": {
+   "anchor": 239262,
+   "revision": 4,
+   "player": "Larsson",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "239420": {
+   "anchor": 239419,
+   "revision": 3,
+   "player": "SHEVCHENKO",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "239421": {
+   "anchor": 239422,
+   "revision": 3,
+   "player": "RIJKAARD",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "239517": {
+   "anchor": 239516,
+   "revision": 3,
+   "player": "ZANETTI",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "239519": {
+   "anchor": 239518,
+   "revision": 4,
+   "player": "Vieri",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "239521": {
+   "anchor": 239520,
+   "revision": 3,
+   "player": "GIGGS",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "239522": {
+   "anchor": 239524,
+   "revision": 3,
+   "player": "LINEKER",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "239526": {
+   "anchor": 239525,
+   "revision": 3,
+   "player": "DESAILLY",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "239528": {
+   "anchor": 239527,
+   "revision": 3,
+   "player": "BARESI",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "239531": {
+   "anchor": 239530,
+   "revision": 3,
+   "player": "MOORE",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "239537": {
+   "anchor": 239539,
+   "revision": 3,
+   "player": "SCHOLES",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "239542": {
+   "anchor": 239541,
+   "revision": 3,
+   "player": "Stoichkov",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "239598": {
+   "anchor": 239599,
+   "revision": 3,
+   "player": "SHEARER",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "239600": {
+   "anchor": 239601,
+   "revision": 3,
+   "player": "KEANE",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "239602": {
+   "anchor": 239535,
+   "revision": 3,
+   "player": "NEDVĚD",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "239604": {
+   "anchor": 239603,
+   "revision": 3,
+   "player": "Butragueño",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "242510": {
+   "anchor": 11141,
+   "revision": 4,
+   "player": "Klose",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "242511": {
+   "anchor": 11141,
+   "revision": 3,
+   "player": "KLOSE",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "242518": {
+   "anchor": 242517,
+   "revision": 3,
+   "player": "SÓCRATES",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "242519": {
+   "anchor": 190049,
+   "revision": 4,
+   "player": "Eusébio",
+   "rating": 93,
+   "promo": "legend"
+  },
+  "242520": {
+   "anchor": 190049,
+   "revision": 3,
+   "player": "EUSÉBIO",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "242522": {
+   "anchor": 242521,
+   "revision": 3,
+   "player": "CRUYFF",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "242625": {
+   "anchor": 242626,
+   "revision": 4,
+   "player": "Nakata",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "242859": {
+   "anchor": 242858,
+   "revision": 3,
+   "player": "MAKÉLÉLÉ",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "242860": {
+   "anchor": 242861,
+   "revision": 3,
+   "player": "TREZEGUET",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "242927": {
+   "anchor": 242928,
+   "revision": 3,
+   "player": "SEEDORF",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "242930": {
+   "anchor": 242929,
+   "revision": 3,
+   "player": "LAMPARD",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "242931": {
+   "anchor": 242932,
+   "revision": 3,
+   "player": "GERRARD",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "242939": {
+   "anchor": 242940,
+   "revision": 3,
+   "player": "RAÚL",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "242950": {
+   "anchor": 242951,
+   "revision": 3,
+   "player": "Rivaldo",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "243027": {
+   "anchor": 237603,
+   "revision": 4,
+   "player": "Verón",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "243028": {
+   "anchor": 388,
+   "revision": 3,
+   "player": "CAMPBELL",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "243029": {
+   "anchor": 388,
+   "revision": 4,
+   "player": "Campbell",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "243030": {
+   "anchor": 243031,
+   "revision": 4,
+   "player": "Gattuso",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "243078": {
+   "anchor": 243079,
+   "revision": 3,
+   "player": "BAGGIO",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "243712": {
+   "anchor": 243782,
+   "revision": 3,
+   "player": "GUARDIOLA",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "243781": {
+   "anchor": 243782,
+   "revision": 4,
+   "player": "Guardiola",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "243784": {
+   "anchor": 243783,
+   "revision": 3,
+   "player": "BALLACK",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "246472": {
+   "anchor": 238706,
+   "revision": 5,
+   "player": "Ronaldinho",
+   "rating": 95,
+   "promo": "prime_icon_moments"
+  },
+  "246474": {
+   "anchor": 239419,
+   "revision": 5,
+   "player": "Shevchenko",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246477": {
+   "anchor": 242951,
+   "revision": 5,
+   "player": "Rivaldo",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246478": {
+   "anchor": 239532,
+   "revision": 4,
+   "player": "van Nistelrooy",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246479": {
+   "anchor": 239525,
+   "revision": 5,
+   "player": "Desailly",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246480": {
+   "anchor": 239110,
+   "revision": 5,
+   "player": "Zola",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "246481": {
+   "anchor": 242929,
+   "revision": 5,
+   "player": "Lampard",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "246482": {
+   "anchor": 242932,
+   "revision": 5,
+   "player": "Gerrard",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246483": {
+   "anchor": 239083,
+   "revision": 5,
+   "player": "Owen",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246485": {
+   "anchor": 239520,
+   "revision": 5,
+   "player": "Giggs",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246486": {
+   "anchor": 239539,
+   "revision": 5,
+   "player": "Scholes",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246487": {
+   "anchor": 239599,
+   "revision": 5,
+   "player": "Shearer",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246489": {
+   "anchor": 237062,
+   "revision": 5,
+   "player": "Henry",
+   "rating": 94,
+   "promo": "prime_icon_moments"
+  },
+  "246490": {
+   "anchor": 239064,
+   "revision": 5,
+   "player": "Cannavaro",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246491": {
+   "anchor": 242928,
+   "revision": 5,
+   "player": "Seedorf",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246492": {
+   "anchor": 239516,
+   "revision": 5,
+   "player": "Zanetti",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246493": {
+   "anchor": 243079,
+   "revision": 5,
+   "player": "Baggio",
+   "rating": 94,
+   "promo": "prime_icon_moments"
+  },
+  "246494": {
+   "anchor": 239070,
+   "revision": 5,
+   "player": "Pirès",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246495": {
+   "anchor": 237065,
+   "revision": 5,
+   "player": "Ferdinand",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "246496": {
+   "anchor": 6235,
+   "revision": 3,
+   "player": "Nedved",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246497": {
+   "anchor": 237063,
+   "revision": 5,
+   "player": "Ronaldo",
+   "rating": 97,
+   "promo": "prime_icon_moments"
+  },
+  "246499": {
+   "anchor": 239063,
+   "revision": 5,
+   "player": "Nesta",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246500": {
+   "anchor": 238419,
+   "revision": 5,
+   "player": "Crespo",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "246501": {
+   "anchor": 239115,
+   "revision": 5,
+   "player": "Litmanen",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "246502": {
+   "anchor": 243783,
+   "revision": 5,
+   "player": "Ballack",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246503": {
+   "anchor": 239081,
+   "revision": 5,
+   "player": "Luís Figo",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246504": {
+   "anchor": 242858,
+   "revision": 5,
+   "player": "Makélélé",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "246505": {
+   "anchor": 242940,
+   "revision": 5,
+   "player": "Raúl",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246506": {
+   "anchor": 238415,
+   "revision": 5,
+   "player": "Petit",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "246507": {
+   "anchor": 239108,
+   "revision": 5,
+   "player": "Okocha",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "246508": {
+   "anchor": 239027,
+   "revision": 5,
+   "player": "Deco",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "246509": {
+   "anchor": 239541,
+   "revision": 5,
+   "player": "Stoichkov",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246510": {
+   "anchor": 238421,
+   "revision": 5,
+   "player": "Hernández",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "246512": {
+   "anchor": 239056,
+   "revision": 5,
+   "player": "Hagi",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246513": {
+   "anchor": 239527,
+   "revision": 5,
+   "player": "Baresi",
+   "rating": 94,
+   "promo": "prime_icon_moments"
+  },
+  "246514": {
+   "anchor": 237073,
+   "revision": 5,
+   "player": "Maradona",
+   "rating": 98,
+   "promo": "prime_icon_moments"
+  },
+  "246515": {
+   "anchor": 239530,
+   "revision": 5,
+   "player": "Moore",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246516": {
+   "anchor": 242521,
+   "revision": 5,
+   "player": "Cruyff",
+   "rating": 95,
+   "promo": "prime_icon_moments"
+  },
+  "246517": {
+   "anchor": 242517,
+   "revision": 5,
+   "player": "Sócrates",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246519": {
+   "anchor": 239055,
+   "revision": 4,
+   "player": "van Basten",
+   "rating": 94,
+   "promo": "prime_icon_moments"
+  },
+  "246520": {
+   "anchor": 239422,
+   "revision": 5,
+   "player": "Rijkaard",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "246521": {
+   "anchor": 238433,
+   "revision": 5,
+   "player": "Gullit",
+   "rating": 94,
+   "promo": "prime_icon_moments"
+  },
+  "246522": {
+   "anchor": 239524,
+   "revision": 5,
+   "player": "Lineker",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246523": {
+   "anchor": 239058,
+   "revision": 5,
+   "player": "Laudrup",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246524": {
+   "anchor": 238437,
+   "revision": 5,
+   "player": "Best",
+   "rating": 94,
+   "promo": "prime_icon_moments"
+  },
+  "246525": {
+   "anchor": 190043,
+   "revision": 5,
+   "player": "Pelé",
+   "rating": 99,
+   "promo": "prime_icon_moments"
+  },
+  "246526": {
+   "anchor": 238381,
+   "revision": 5,
+   "player": "Yashin",
+   "rating": 95,
+   "promo": "prime_icon_moments"
+  },
+  "246527": {
+   "anchor": 1075,
+   "revision": 4,
+   "player": "Del Piero",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246529": {
+   "anchor": 238387,
+   "revision": 5,
+   "player": "Bergkamp",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246530": {
+   "anchor": 5680,
+   "revision": 5,
+   "player": "Kluivert",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246531": {
+   "anchor": 238426,
+   "revision": 5,
+   "player": "Vieira",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246532": {
+   "anchor": 238429,
+   "revision": 5,
+   "player": "Schmeichel",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "246534": {
+   "anchor": 238436,
+   "revision": 5,
+   "player": "Matthäus",
+   "rating": 94,
+   "promo": "prime_icon_moments"
+  },
+  "246535": {
+   "anchor": 1109,
+   "revision": 5,
+   "player": "Maldini",
+   "rating": 95,
+   "promo": "prime_icon_moments"
+  },
+  "246537": {
+   "anchor": 222481,
+   "revision": 5,
+   "player": "Blanc",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246539": {
+   "anchor": 239518,
+   "revision": 5,
+   "player": "Vieri",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "246541": {
+   "anchor": 190049,
+   "revision": 5,
+   "player": "Eusébio",
+   "rating": 94,
+   "promo": "prime_icon_moments"
+  },
+  "246542": {
+   "anchor": 242626,
+   "revision": 5,
+   "player": "Nakata",
+   "rating": 89,
+   "promo": "prime_icon_moments"
+  },
+  "246543": {
+   "anchor": 237603,
+   "revision": 5,
+   "player": "Verón",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "246544": {
+   "anchor": 388,
+   "revision": 5,
+   "player": "Campbell",
+   "rating": 90,
+   "promo": "prime_icon_moments"
+  },
+  "246545": {
+   "anchor": 243031,
+   "revision": 5,
+   "player": "Gattuso",
+   "rating": 90,
+   "promo": "prime_icon_moments"
+  },
+  "247075": {
+   "anchor": 247074,
+   "revision": 3,
+   "player": "KAKÁ",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "247299": {
+   "anchor": 247074,
+   "revision": 5,
+   "player": "Kaká",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "247300": {
+   "anchor": 243782,
+   "revision": 5,
+   "player": "Guardiola",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "247301": {
+   "anchor": 247303,
+   "revision": 3,
+   "player": "KOEMAN",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "247302": {
+   "anchor": 247303,
+   "revision": 5,
+   "player": "Koeman",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "247306": {
+   "anchor": 247305,
+   "revision": 5,
+   "player": "Essien",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "247307": {
+   "anchor": 247305,
+   "revision": 3,
+   "player": "ESSIEN",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "247324": {
+   "anchor": 247327,
+   "revision": 3,
+   "player": "Capita",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "247514": {
+   "anchor": 247517,
+   "revision": 3,
+   "player": "BARNES",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "247515": {
+   "anchor": 247517,
+   "revision": 4,
+   "player": "Barnes",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "247516": {
+   "anchor": 247517,
+   "revision": 5,
+   "player": "Barnes",
+   "rating": 90,
+   "promo": "prime_icon_moments"
+  },
+  "247547": {
+   "anchor": 247549,
+   "revision": 3,
+   "player": "SÁNCHEZ",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "247548": {
+   "anchor": 247549,
+   "revision": 5,
+   "player": "Sánchez",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "247553": {
+   "anchor": 247552,
+   "revision": 4,
+   "player": "Garrincha",
+   "rating": 94,
+   "promo": "legend"
+  },
+  "247554": {
+   "anchor": 247552,
+   "revision": 5,
+   "player": "Garrincha",
+   "rating": 95,
+   "promo": "prime_icon_moments"
+  },
+  "247555": {
+   "anchor": 247552,
+   "revision": 3,
+   "player": "GARRINCHA",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "247614": {
+   "anchor": 247616,
+   "revision": 3,
+   "player": "PIRLO",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "247615": {
+   "anchor": 247616,
+   "revision": 5,
+   "player": "Pirlo",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "247694": {
+   "anchor": 247693,
+   "revision": 5,
+   "player": "Drogba",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "247695": {
+   "anchor": 247693,
+   "revision": 3,
+   "player": "DROGBA",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "247699": {
+   "anchor": 247700,
+   "revision": 4,
+   "player": "Dalglish",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "247701": {
+   "anchor": 247700,
+   "revision": 3,
+   "player": "DALGLISH",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "247702": {
+   "anchor": 247700,
+   "revision": 5,
+   "player": "Dalglish",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "247703": {
+   "anchor": 247704,
+   "revision": 4,
+   "player": "Rush",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "247705": {
+   "anchor": 247704,
+   "revision": 5,
+   "player": "Rush",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "247706": {
+   "anchor": 247704,
+   "revision": 3,
+   "player": "RUSH",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "248146": {
+   "anchor": 248154,
+   "revision": 4,
+   "player": "Wright",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "248155": {
+   "anchor": 248154,
+   "revision": 3,
+   "player": "WRIGHT",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "248156": {
+   "anchor": 248154,
+   "revision": 5,
+   "player": "Wright",
+   "rating": 90,
+   "promo": "prime_icon_moments"
+  },
+  "248450": {
+   "anchor": 248449,
+   "revision": 3,
+   "player": "ZIDANE",
+   "rating": 94,
+   "promo": "legend"
+  },
+  "248451": {
+   "anchor": 248449,
+   "revision": 5,
+   "player": "Zidane",
+   "rating": 97,
+   "promo": "prime_icon_moments"
+  },
+  "250890": {
+   "anchor": 250889,
+   "revision": 4,
+   "player": "Zambrotta",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "250891": {
+   "anchor": 250889,
+   "revision": 3,
+   "player": "ZAMBROTTA",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "250892": {
+   "anchor": 250889,
+   "revision": 5,
+   "player": "Zambrotta",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "254571": {
+   "anchor": 254570,
+   "revision": 3,
+   "player": "RIQUELME",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "254572": {
+   "anchor": 254570,
+   "revision": 5,
+   "player": "Riquelme",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "254642": {
+   "anchor": 256013,
+   "revision": 4,
+   "player": "Puskás",
+   "rating": 94,
+   "promo": "legend"
+  },
+  "255355": {
+   "anchor": 255354,
+   "revision": 3,
+   "player": "COLE",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "255356": {
+   "anchor": 255354,
+   "revision": 5,
+   "player": "Cole",
+   "rating": 90,
+   "promo": "prime_icon_moments"
+  },
+  "255358": {
+   "anchor": 255357,
+   "revision": 3,
+   "player": "ETO'O",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "255359": {
+   "anchor": 255357,
+   "revision": 5,
+   "player": "Eto'o",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "255477": {
+   "anchor": 255476,
+   "revision": 3,
+   "player": "CANTONA",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "255478": {
+   "anchor": 255476,
+   "revision": 5,
+   "player": "Cantona",
+   "rating": 94,
+   "promo": "prime_icon_moments"
+  },
+  "255758": {
+   "anchor": 255757,
+   "revision": 3,
+   "player": "VIDIĆ",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "255910": {
+   "anchor": 255909,
+   "revision": 3,
+   "player": "XAVI",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "255911": {
+   "anchor": 255909,
+   "revision": 5,
+   "player": "Xavi",
+   "rating": 94,
+   "promo": "prime_icon_moments"
+  },
+  "256014": {
+   "anchor": 256013,
+   "revision": 3,
+   "player": "PUSKÁS",
+   "rating": 92,
+   "promo": "legend"
+  },
+  "256015": {
+   "anchor": 256013,
+   "revision": 5,
+   "player": "Puskás",
+   "rating": 95,
+   "promo": "prime_icon_moments"
+  },
+  "256154": {
+   "anchor": 256153,
+   "revision": 3,
+   "player": "LAHM",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "256155": {
+   "anchor": 256153,
+   "revision": 5,
+   "player": "Lahm",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "256339": {
+   "anchor": 256338,
+   "revision": 3,
+   "player": "Schweinsteiger",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "256340": {
+   "anchor": 256338,
+   "revision": 5,
+   "player": "Schweinsteiger",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "256432": {
+   "anchor": 256431,
+   "revision": 3,
+   "player": "Čech",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "256869": {
+   "anchor": 256870,
+   "revision": 3,
+   "player": "TORRES",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "257417": {
+   "anchor": 257416,
+   "revision": 3,
+   "player": "ŠUKER",
+   "rating": 87,
+   "promo": "legend"
+  },
+  "257418": {
+   "anchor": 257416,
+   "revision": 5,
+   "player": "Šuker",
+   "rating": 91,
+   "promo": "prime_icon_moments"
+  },
+  "258778": {
+   "anchor": 258779,
+   "revision": 3,
+   "player": "Beckham",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "258862": {
+   "anchor": 258779,
+   "revision": 5,
+   "player": "Beckham",
+   "rating": 94,
+   "promo": "prime_icon_moments"
+  },
+  "260817": {
+   "anchor": 260816,
+   "revision": 3,
+   "player": "CAFÚ",
+   "rating": 90,
+   "promo": "legend"
+  },
+  "261395": {
+   "anchor": 261394,
+   "revision": 3,
+   "player": "Casillas",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "261591": {
+   "anchor": 261592,
+   "revision": 3,
+   "player": "Rooney",
+   "rating": 88,
+   "promo": "legend"
+  },
+  "261997": {
+   "anchor": 261394,
+   "revision": 5,
+   "player": "Casillas",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "261998": {
+   "anchor": 261592,
+   "revision": 5,
+   "player": "Rooney",
+   "rating": 93,
+   "promo": "prime_icon_moments"
+  },
+  "262111": {
+   "anchor": 262110,
+   "revision": 3,
+   "player": "van Persie",
+   "rating": 89,
+   "promo": "legend"
+  },
+  "262199": {
+   "anchor": 262110,
+   "revision": 5,
+   "player": "van Persie",
+   "rating": 92,
+   "promo": "prime_icon_moments"
+  },
+  "67108891": {
+   "anchor": 255354,
+   "revision": 6,
+   "player": "Cole",
+   "rating": 96,
+   "promo": "shapeshifters_heroes"
+  },
+  "99919237": {
+   "anchor": 261592,
+   "revision": 4,
+   "player": "Rooney",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "99919924": {
+   "anchor": 262110,
+   "revision": 4,
+   "player": "van Persie",
+   "rating": 91,
+   "promo": "legend"
+  },
+  "99919927": {
+   "anchor": 261394,
+   "revision": 4,
+   "player": "Casillas",
+   "rating": 92,
+   "promo": "legend"
+  }
+ }
+}

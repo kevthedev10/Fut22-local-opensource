@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+================================================================================
+(c) 2011 Electronic Arts, Inc.
+================================================================================
+-->
+<store xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema/storecfg.xsd">
+	<configFormatVersion>1</configFormatVersion>
+	<fileVersion>0</fileVersion>
+	<metadata>
+		<contentidmap>	
+			<map contentid="FIFA_DIGITAL_STANDARD_EDITION"						uniqueid="0F22B000" />
+			<map contentid="FIFA_DIGITAL_ULTIMATE1_EDITION"						uniqueid="0F22B001" />
+			<map contentid="FIFA_DIGITAL_ULTIMATE1_LOYALTY_EDITION"				uniqueid="0F22B002" />
+			<map contentid="FIFA_DIGITAL_ULTIMATE2_EDITION"						uniqueid="0F22B003" />
+			<map contentid="FIFA_DIGITAL_ULTIMATE2_LOYALTY_EDITION"				uniqueid="0F22B004" />
+			<!-- Launch -->
+			<map contentid="FIFA_DIGITAL_ULTIMATE_LAUNCH_EDITION"				uniqueid="0F22B005" />
+			<!-- Post Launch --> 
+			<map contentid="FIFA_STANDARD_LOYALTY_POSTLAUNCH_EDITION" 			uniqueid="0F22B006" />
+			
+			
+			<map contentid="FUT_STANDARD" 								uniqueid="0F221001" />
+			<map contentid="FUT_ULTIMATE1" 								uniqueid="0F221002" />
+			<map contentid="FUT_ULTIMATE2" 								uniqueid="0F221003" />
+			<!-- Launch -->
+			<map contentid="FUT_ULTIMATELAUNCH" 						uniqueid="0F221004" />
+			<!-- Post Launch --> 
+			<map contentid="FUT_POSTLAUNCH_500FIFAPOINTS"				uniqueid="0F221006" />
+
+			
+			<map contentid="FIFAPOINTS100"				uniqueid="0F22F000" />
+			<map contentid="FIFAPOINTS250" 				uniqueid="0F22F001" />
+			<map contentid="FIFAPOINTS500" 				uniqueid="0F22F002" />
+			<map contentid="FIFAPOINTS750" 				uniqueid="0F22F003" />
+			<map contentid="FIFAPOINTS1050" 			uniqueid="0F22F004" />
+			<map contentid="FIFAPOINTS1600" 			uniqueid="0F22F005" />
+			<map contentid="FIFAPOINTS2200" 			uniqueid="0F22F006" />
+			<map contentid="FIFAPOINTS4600" 			uniqueid="0F22F007" />
+			<map contentid="FIFAPOINTS12000" 			uniqueid="0F22F008" />
+
+		</contentidmap>
+		<categories>
+			<category name="all">
+				<!-- FIFA Points here will show up in the FIFA Store -->
+				<!-- Not required for it to show in FUT -->
+				<item id="FIFAPOINTS100" />
+				<item id="FIFAPOINTS250" />
+				<item id="FIFAPOINTS500" />
+				<item id="FIFAPOINTS750" />
+				<item id="FIFAPOINTS1050" />
+				<item id="FIFAPOINTS1600" />
+				<item id="FIFAPOINTS2200" />
+				<item id="FIFAPOINTS4600" />
+				<item id="FIFAPOINTS12000" />
+			</category>
+			<!--category name="updates"-->
+			<!-- do not add, category populated at runtime -->
+			<!--/category-->
+		</categories>
+		<!--
+	        for the following documentation:
+	          "item A" refers to the item whose content id is specified in the "id" attribute of the "dependency" tag
+		    "condition D" refers to the condition tag that is specified in the "cond" attribute of the "dependency" tag
+		    "entitlement E" refers to the entitlement tag that is specified in the "entitlement" attribute of the "dependency" tag
+	          "item B" refers to the item whose content id is specified in the type of dependency tag's id attribute
+
+		  the "show" attribute governs whether or not the item is shown if its prerequisites are not fulfilled. If show="true" then they are visible but nonpurchasable.
+
+	        <preclusion id="<contentid>" />
+	                preclusion   is where the purchase of item A, truth of condition D, or presence of entitlement E
+				                 "precludes" the purchase of item B
+	                id           is the content id of item B
+				  show		 true if want to show item B as disabled or false (default) to hide completely
+
+	        <prerequisite {id="<contentid>",entitlement="<tag>"} type="{and,or}" />
+	                prerequisite  is where item A cannot be purchased before purchasing item B and/or entitlement C
+	                id            is the content id of item B
+				  entitlement   is the tag of entitlement C
+				  cond		  is condition D
+	                type          use "and" to link one or more prerequisites as (B and C and D)
+	                              use "or" to link one or more prerequisites as (B or C or D)
+
+	                Specifying both types "and" and "or" for a single item will result in the "and"
+	                prerequisites only being evaluated. Ie. currently it is not possible to form
+	                simple expressions combining "and" and "or".
+
+	      -->
+		<dependencies>
+		</dependencies>
+		<!-- for purchased items which needs to be associated with a nucleus entitlement with a valid OFB entry for reporting -->
+		
+		<nucleusassociations>		
+			
+			<xbox id="FUT_STANDARD" 								entitlement="FIFA22_PREORDER_STANDARD"			ofbid="Console.OFR.50.0020298" />
+			<xbox id="FIFA_DIGITAL_STANDARD_EDITION"				entitlement="FIFA22_PREORDER_STANDARD" 			ofbid="Console.OFR.50.0020298" />
+			<xbox id="FUT_ULTIMATE1" 								entitlement="FIFA22_PREORDER_ULTIMATE1" 		ofbid="Console.OFR.50.0020299" />
+			<xbox id="FIFA_DIGITAL_ULTIMATE1_EDITION" 				entitlement="FIFA22_PREORDER_ULTIMATE1" 		ofbid="Console.OFR.50.0020299" />
+			<xbox id="FIFA_DIGITAL_ULTIMATE1_LOYALTY_EDITION" 		entitlement="FIFA22_PREORDER_ULTIMATE1"			ofbid="Console.OFR.50.0020299" />
+			<xbox id="FUT_ULTIMATE2" 								entitlement="FIFA22_PREORDER_ULTIMATE2" 		ofbid="Console.OFR.50.0020300" />
+			<xbox id="FIFA_DIGITAL_ULTIMATE2_EDITION" 				entitlement="FIFA22_PREORDER_ULTIMATE2"			ofbid="Console.OFR.50.0020300" />
+			<xbox id="FIFA_DIGITAL_ULTIMATE2_LOYALTY_EDITION" 		entitlement="FIFA22_PREORDER_ULTIMATE2"			ofbid="Console.OFR.50.0020300" />		
+			<!--Launch -->
+			<xbox id="FUT_ULTIMATELAUNCH" 							entitlement="FIFA22_LAUNCH_ULTIMATE3" 			ofbid="Console.OFR.50.0020638" />
+			<xbox id="FIFA_DIGITAL_ULTIMATE_LAUNCH_EDITION" 		entitlement="FIFA22_LAUNCH_ULTIMATE3"			ofbid="Console.OFR.50.0020638" />			
+			<!--Post Launch --> 
+			<xbox id="FIFA_STANDARD_LOYALTY_POSTLAUNCH_EDITION" 	entitlement="FIFA22_LAUNCH_STANDARD_LOYALTY"	ofbid="Console.OFR.50.0023202" />
+			<xbox id="FUT_POSTLAUNCH_500FIFAPOINTS" 				entitlement="FIFA22_LAUNCH_STANDARD_LOYALTY"	ofbid="Console.OFR.50.0023202" />
+
+			
+			<kettle id="FUT_STANDARD" 								entitlement="FIFA22_PREORDER_STANDARD"			ofbid="Console.OFR.50.0020301" />
+			<kettle id="FUT_ULTIMATE1" 								entitlement="FIFA22_PREORDER_ULTIMATE1" 		ofbid="Console.OFR.50.0020302" />
+			<kettle id="FUT_ULTIMATE2" 								entitlement="FIFA22_PREORDER_ULTIMATE2" 		ofbid="Console.OFR.50.0020303" />		
+			<!--Launch -->
+			<kettle id="FUT_ULTIMATELAUNCH" 						entitlement="FIFA22_LAUNCH_ULTIMATE3" 			ofbid="Console.OFR.50.0020639" />			
+			<kettle id="FUT_POSTLAUNCH_500FIFAPOINTS" 				entitlement="FIFA22_LAUNCH_STANDARD_LOYALTY" 	ofbid="Console.OFR.50.0023203" />
+			
+		</nucleusassociations>
+		
+		<replenishables>			
+			<item id="FIFAPOINTS100" />
+			<item id="FIFAPOINTS250" />
+			<item id="FIFAPOINTS500" />
+			<item id="FIFAPOINTS750" />
+			<item id="FIFAPOINTS1050" />
+			<item id="FIFAPOINTS1600" />
+			<item id="FIFAPOINTS2200" />
+			<item id="FIFAPOINTS4600" />
+			<item id="FIFAPOINTS12000" />
+		</replenishables>
+	</metadata>
+</store>

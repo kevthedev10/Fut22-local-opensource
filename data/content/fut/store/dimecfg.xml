@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dime xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../dimecfg.xsd">
+	<!--Compatible with Microsoft XML Notepad 2007
+Can also use dime/dev/tools/xml.exe to validate:
+xml val -s ..\data\dimecfg.xsd -e ..\data\cmn\dimecfg.xml-->
+	<configFormatVersion>1</configFormatVersion>
+	<fileVersion>1</fileVersion>
+	<kettleRescanInterval>12000</kettleRescanInterval>
+	<games>
+		<game>
+			<index>0</index>
+			<name>FIFA 22</name>
+			<kettle>
+				<serviceLabels>
+					<store serviceLabel="0" />
+					<store name="CUSA27111" serviceLabel="2" /> <!-- BR -->
+					<store name="CUSA27108" serviceLabel="2" /> <!-- AR -->
+					<store name="CUSA27109" serviceLabel="2" /> <!-- AS -->
+					<store name="CUSA27107" serviceLabel="2" /> <!-- EE -->
+				</serviceLabels>
+				<!-- George Wu says the category labels are for the PS+ upsell and should not be enabled until close to final if we are doing a similar promotion in FIFA 20 - last year it caused an EA CERT fail -->	
+				<!-- <categoryLabels> -->
+					<!-- <store categoryLabel="" /> -->
+					<!-- in prod the categoryLabels includes NA/EU/AR/BRAZIL stores -->
+					<!-- <store name="CUSA15557" categoryLabel="IP9102-NPIA90006_00-PLUSTEST" /> --> <!-- NA categoryLabel TBD -->
+					<!-- <store name="CUSA15545" categoryLabel="IP9102-NPIA90006_00-PLUSTEST" /> --> <!-- EU categoryLabel TBD -->
+				<!-- </categoryLabels> -->
+			</kettle>
+			<pc>
+				<!-- Integration IDs -->				
+				<categoryId>Origin.CTY.50.0000097</categoryId> <!-- FIFA22PCFIFAPoints -->
+				<categoryId>Origin.CTY.50.0000099</categoryId> <!-- FIFA22PCEditionAndPreorders -->				
+				<groupName>FIFA22PCFIFAPointsPacks</groupName>
+				<groupName>FIFA22PCBoxContent</groupName>
+				<lockboxURL>https://origin.preprod.checkout.ea.com/lockbox-ui/checkout</lockboxURL>
+				<successURL>https://origin.preprod.checkout.ea.com/lockbox-ui/checkout</successURL>
+				<failURL>https://origin.preprod.checkout.ea.com/lockbox-ui/checkout</failURL>
+				<virtualCurrency>_FF</virtualCurrency>
+			</pc>
+		</game>
+		<game>
+			<index>1</index>
+			<name>EA Access</name>
+			<kettle>
+				<serviceLabels>
+					<store serviceLabel="1" />
+				</serviceLabels>
+			</kettle>
+		</game>		
+		<primaryGameIndex>0</primaryGameIndex>
+	</games>
+	<content>
+	
+		<pulcs>
+			<!-- This value is reserved but not used. -->
+			<!-- DIME does not support checkout for EA Access -->
+			<pulc>
+				<uniqueId>0F22A000</uniqueId>
+				<name>EA Access</name>
+				<gameIndex>1</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>f4fd26b2-6f93-4ff4-b811-b04804866acb</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<useMarketplaceCheckoutUI>true</useMarketplaceCheckoutUI>
+				</xbox>
+				<kettle>
+					<productId>PSEAA12M00000000</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<useProductBrowse>false</useProductBrowse>
+				</kettle>
+			</pulc>
+			<pulc>
+				<uniqueId>0F22A001</uniqueId>
+				<name>FIFA 2022</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>44344e39-524e-3058-c04d-4a3338312a00</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<useMarketplaceCheckoutUI>true</useMarketplaceCheckoutUI>
+				</xbox>
+				<kettle>					
+					<productId>FIFAFOOTBALL2020</productId>
+					<entitlementId>FIFAFOOTBALL2020</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<useProductBrowse>true</useProductBrowse>
+				</kettle>
+			</pulc>
+			<!--
+			<pulc>				
+				<uniqueId>0F20A002</uniqueId>
+				<name>EA Access App</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>531c7245-a479-4c34-b824-7ce18787e3fe</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<useMarketplaceCheckoutUI>true</useMarketplaceCheckoutUI>
+				</xbox>
+			</pulc>
+			-->
+			<pulc>
+				<!-- This value is reserved but not used. -->
+				<!-- DIME does not support checkout for EA Access -->
+				<uniqueId>0F22A003</uniqueId>
+				<name>EA Access (Monthly)</name>
+				<gameIndex>1</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<!--<xbox>
+					<productId>f4fd26b2-6f93-4ff4-b811-b04804866acb</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<useMarketplaceCheckoutUI>true</useMarketplaceCheckoutUI>
+				</xbox> -->
+				<kettle>
+					<productId>PSEAA1M000000000</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<useProductBrowse>false</useProductBrowse>
+				</kettle>
+			</pulc>
+			<pulc>
+				<uniqueId>0F20F104</uniqueId>
+				<name>FIFA 2017 upsell test item</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>        
+				<dataType>1</dataType>
+				<!-- dataType 1: The major game package -->
+				<xbox>
+				  <!--  FIFA 16  -->
+				  <productId>55df9f8d-1c80-4928-954b-a4ace7604fff</productId>
+				  <purchaseable>true</purchaseable>
+				  <advertise>true</advertise>
+				  <useMarketplaceCheckoutUI>true</useMarketplaceCheckoutUI>
+				</xbox>
+				<kettle>
+				  <productId>TEST000000000000</productId>
+				  <entitlementId>TEST00</entitlementId>
+				  <purchaseable>true</purchaseable>
+				  <advertise>true</advertise>
+				</kettle>
+				<pc>
+				  <offerId>OFB-FIFA:0</offerId>
+				  <purchaseable>true</purchaseable>
+				  <advertise>true</advertise>
+				  <purchaseUrl>https://review.www.cms.origin.com/en-ca/store/browse/fifa</purchaseUrl>
+				  <!--
+				  <purchaseUrl>https://www.origin.com/en-ca/store/buy/fifa-16/pc-download/base-game/super-deluxe-edition</purchaseUrl>
+				  -->
+				  <useVirtualCurrency>false</useVirtualCurrency>
+				</pc>
+			</pulc>
+			
+			<!-- These numbers are currently aligned with the Gen 3 numbers -->
+			<!-- The dependency not necessarily required for PULCs -->
+			
+			<!-- Incentives -->
+			<pulc>
+				<uniqueId>0F221001</uniqueId>
+				<name>FIFA 22 - Preorder Standard Edition Incentive</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>9NQSGP8GWRMD</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<kettle>
+					<productId>PREST10000000000</productId>
+					<entitlementId>PREST1</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<voucherOffer>true</voucherOffer>					
+				</kettle>
+			</pulc>				
+			<pulc>
+				<uniqueId>0F221002</uniqueId>
+				<name>FIFA 22 - Ultimate Edition I Incentive</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>9NMF3KKNWWP2</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<kettle>
+					<productId>PREUL10000000000</productId>
+					<entitlementId>PREUL1</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<voucherOffer>true</voucherOffer>					
+				</kettle>
+			</pulc>
+			<pulc>
+				<uniqueId>0F221003</uniqueId>
+				<name>FIFA 22 - Ultimate Edition II Incentive</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>9MV9HNQWWSL0</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<kettle>
+					<productId>PREUL20000000000</productId>
+					<entitlementId>PREUL2</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<voucherOffer>true</voucherOffer>					
+				</kettle>
+			</pulc>
+			<pulc>
+				<uniqueId>0F221004</uniqueId>
+				<name>FIFA 22 - Ultimate Launch Incentive</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>9N02RZW2V068</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<kettle>
+					<productId>LCHUL30000000000</productId>
+					<entitlementId>LCHUL3</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<voucherOffer>true</voucherOffer>					
+				</kettle>
+			</pulc>
+			<pulc>
+				<uniqueId>0F221006</uniqueId>
+				<name>FIFA 22 500 POINTS CONVERSION OFFER</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>9NSTG3RM6V8R</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<kettle>
+					<productId>PL500P0000000000</productId>
+					<entitlementId>PL500P</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<voucherOffer>true</voucherOffer>					
+				</kettle>
+			</pulc>			
+			<!-- Bundles --> 
+			<pulc>
+				<uniqueId>0F22B000</uniqueId>
+				<name>FIFA 22 - PreOrder Digital Standard Edition</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>9NH6R4PJRHH8</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+			</pulc>
+			<pulc>
+				<uniqueId>0F22B001</uniqueId>
+				<name>FIFA 22 - Ultimate Edition 1 (Early Pre-Order)</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>9NR97RVZTXMD</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+			</pulc>
+			<pulc>
+				<uniqueId>0F22B002</uniqueId>
+				<name>FIFA 22 - Ultimate Loyalty Edition 1 (Early Pre-Order)</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>			
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>9PG2BZ2B6M2Z</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>				
+			</pulc>
+			<pulc>
+				<uniqueId>0F22B003</uniqueId>
+				<name>FIFA 22 - Ultimate Edition 2 (Late Pre-Order)</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>			
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>9P1L9P7SXGWN</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>				
+			</pulc>
+			<pulc>
+				<uniqueId>0F22B004</uniqueId>
+				<name>FIFA 22 - Ultimate Loyalty Edition 2 (Late Pre-Order)</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>			
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>9NTK23VLX0Q9</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>				
+			</pulc>
+			<pulc>
+				<uniqueId>0F22B005</uniqueId>
+				<name>FIFA 22 - Ultimate Launch Edition</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>			
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>9P4SH7HLMLFS</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>				
+			</pulc>
+			<pulc>
+				<uniqueId>0F22B006</uniqueId>
+				<name>FIFA 22 - Launch Standard Loyalty Edition</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>			
+				<dimeVersion>0</dimeVersion>
+				<xbox>
+					<productId>9PBVTQV60FJH</productId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<ps5>
+					<productId>LOYALTYLAUNCHSTD</productId>
+					<entitlementId>LOYALTYLAUNCHSTD</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<useProductBrowse>true</useProductBrowse>
+				</ps5>				
+			</pulc>
+		</pulcs>
+		
+		<consumables>		
+		<!-- FIFA Points -->
+			<consumable serverId="600">
+				<uniqueId>0F22F000</uniqueId>
+				<name>FIFA Points 100</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<kettle>
+					<productId>FP06000000000000</productId>
+					<entitlementId>FP0600</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</kettle>
+				<xbox>
+					<productId>9NV9P7DM09ZH</productId>
+					<availabilityId></availabilityId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<pc>
+					<offerId>Origin.OFR.50.0004514</offerId> <!-- 22 -->
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<itemId>Origin.OFR.50.0004514</itemId> <!-- Use OfferId again here instead of itemId -->
+					<entitlementId>FP0600</entitlementId>
+					<useVirtualCurrency>false</useVirtualCurrency>
+					<groupNameIndex>1</groupNameIndex>
+				</pc>
+			</consumable>
+			<consumable serverId="601">
+				<uniqueId>0F22F001</uniqueId>
+				<name>FIFA Points 250</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<kettle>
+					<productId>FP06010000000000</productId>
+					<entitlementId>FP0601</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</kettle>
+				<xbox>
+					<productId>9PG5CMFW2WD3</productId>
+					<availabilityId></availabilityId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<pc>
+					<offerId>Origin.OFR.50.0004515</offerId> <!-- 22 -->
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<itemId>Origin.OFR.50.0004515</itemId>  <!-- Use OfferId again here instead of itemId -->
+					<entitlementId>FP0601</entitlementId>
+					<useVirtualCurrency>false</useVirtualCurrency>
+					<groupNameIndex>1</groupNameIndex>
+				</pc>
+			</consumable>
+			<consumable serverId="602">
+				<uniqueId>0F22F002</uniqueId>
+				<name>FIFA Points 500</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<kettle>
+					<productId>FP06020000000000</productId>
+					<entitlementId>FP0602</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</kettle>
+				<xbox>
+					<productId>9NX276QB2CXR</productId>
+					<availabilityId></availabilityId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<pc>
+					<offerId>Origin.OFR.50.0004516</offerId> <!-- 22 -->
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<itemId>Origin.OFR.50.0004516</itemId>  <!-- Use OfferId again here instead of itemId -->
+					<entitlementId>FP0602</entitlementId>
+					<useVirtualCurrency>false</useVirtualCurrency>
+					<groupNameIndex>1</groupNameIndex>
+				</pc>
+			</consumable>
+			<consumable serverId="603">
+				<uniqueId>0F22F003</uniqueId>
+				<name>FIFA Points 750</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<kettle>
+					<productId>FP06030000000000</productId>
+					<entitlementId>FP0603</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</kettle>
+				<xbox>
+					<productId>9PKSWQL2X9QK</productId>
+					<availabilityId></availabilityId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<pc>
+					<offerId>Origin.OFR.50.0004517</offerId> <!-- 22 -->
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<itemId>Origin.OFR.50.0004517</itemId>  <!-- Use OfferId again here instead of itemId -->
+					<entitlementId>FP0603</entitlementId>
+					<useVirtualCurrency>false</useVirtualCurrency>
+					<groupNameIndex>1</groupNameIndex>
+				</pc>
+			</consumable>
+			<consumable serverId="604">
+				<uniqueId>0F22F004</uniqueId>
+				<name>FIFA Points 1050</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<kettle>
+					<productId>FP06040000000000</productId>
+					<entitlementId>FP0604</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</kettle>
+				<xbox>
+					<productId>9NFTJ17GRM8Z</productId>
+					<availabilityId></availabilityId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<pc>
+					<offerId>Origin.OFR.50.0004518</offerId> <!-- 22 -->
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<itemId>Origin.OFR.50.0004518</itemId>  <!-- Use OfferId again here instead of itemId -->
+					<entitlementId>FP0604</entitlementId>
+					<useVirtualCurrency>false</useVirtualCurrency>
+					<groupNameIndex>1</groupNameIndex>
+				</pc>
+			</consumable>
+			<consumable serverId="605">
+				<uniqueId>0F22F005</uniqueId>
+				<name>FIFA Points 1600</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<kettle>
+					<productId>FP06050000000000</productId>
+					<entitlementId>FP0605</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</kettle>
+				<xbox>
+					<productId>9PLM537PHK08</productId>
+					<availabilityId></availabilityId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<pc>
+					<offerId>Origin.OFR.50.0004519</offerId> <!-- 22 -->
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<itemId>Origin.OFR.50.0004519</itemId>  <!-- Use OfferId again here instead of itemId -->
+					<entitlementId>FP0605</entitlementId>
+					<useVirtualCurrency>false</useVirtualCurrency>
+					<groupNameIndex>1</groupNameIndex>
+				</pc>
+			</consumable>
+			<consumable serverId="606">
+				<uniqueId>0F22F006</uniqueId>
+				<name>FIFA Points 2200</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<kettle>
+					<productId>FP06060000000000</productId>
+					<entitlementId>FP0606</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</kettle>
+				<xbox>
+					<productId>9NF7KT03XSD1</productId>
+					<availabilityId></availabilityId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<pc>
+					<offerId>Origin.OFR.50.0004520</offerId> <!-- 22 -->
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<itemId>Origin.OFR.50.0004520</itemId>  <!-- Use OfferId again here instead of itemId -->
+					<entitlementId>FP0606</entitlementId>
+					<useVirtualCurrency>false</useVirtualCurrency>
+					<groupNameIndex>1</groupNameIndex>
+				</pc>
+			</consumable>
+			<consumable serverId="607">
+				<uniqueId>0F22F007</uniqueId>
+				<name>FIFA Points 4600</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<kettle>
+					<productId>FP06070000000000</productId>
+					<entitlementId>FP0607</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</kettle>
+				<xbox>
+					<productId>9PC8JKD1HP0D</productId>
+					<availabilityId></availabilityId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<pc>
+					<offerId>Origin.OFR.50.0004521</offerId> <!-- 22 -->
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<itemId>Origin.OFR.50.0004521</itemId>  <!-- Use OfferId again here instead of itemId -->
+					<entitlementId>FP0607</entitlementId>
+					<useVirtualCurrency>false</useVirtualCurrency>
+					<groupNameIndex>1</groupNameIndex>
+				</pc>
+			</consumable>
+			<consumable serverId="608">
+				<uniqueId>0F22F008</uniqueId>
+				<name>FIFA Points 12000</name>
+				<gameIndex>0</gameIndex>
+				<metaData>0</metaData>
+				<dimeVersion>0</dimeVersion>
+				<kettle>
+					<productId>FP06080000000000</productId>
+					<entitlementId>FP0608</entitlementId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</kettle>
+				<xbox>
+					<productId>9P3LD7CRBX08</productId>
+					<availabilityId></availabilityId>
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+				</xbox>
+				<pc>
+					<offerId>Origin.OFR.50.0004522</offerId> <!-- 22 -->
+					<purchaseable>true</purchaseable>
+					<advertise>true</advertise>
+					<itemId>Origin.OFR.50.0004522</itemId>  <!-- Use OfferId again here instead of itemId -->
+					<entitlementId>FP0608</entitlementId>
+					<useVirtualCurrency>false</useVirtualCurrency>
+					<groupNameIndex>1</groupNameIndex>
+				</pc>
+			</consumable>						
+		</consumables>
+		<dlcs>
+			<dlc>
+				<uniqueId>0FFFF001</uniqueId>
+				<name>FIFA 22 Brazilian Portuguese Audio</name>
+				<gameIndex>0</gameIndex>
+				<medataData>0</medataData>
+				<dimeVersion>0</dimeVersion>
+				<kettle>
+					<productId>FIFA22BRPORAUDIO</productId>
+					<entitlementId>FIFA22BRPORAUDIO</entitlementId>
+					<downloadable>true</downloadable>
+					<advertise>true</advertise>
+					<useProductBrowse>true</useProductBrowse>
+				</kettle>
+				<xbox>
+					<productId>47374e39-5748-3052-c04a-5135314a4100</productId>		
+					<downloadable>true</downloadable>
+					<advertise>true</advertise>
+					<useMarketplaceCheckoutUI>true</useMarketplaceCheckoutUI>
+				</xbox>
+			</dlc>
+			<dlc>
+				<uniqueId>0FFFF002</uniqueId>
+				<name>FIFA 22 Spanish Audio</name>
+				<gameIndex>0</gameIndex>
+				<medataData>0</medataData>
+				<dimeVersion>0</dimeVersion>
+				<kettle>
+					<productId>FIFA22SPANIAUDIO</productId>
+					<entitlementId>FIFA22SPANIAUDIO</entitlementId>
+					<downloadable>true</downloadable>
+					<advertise>true</advertise>
+					<useProductBrowse>true</useProductBrowse>
+				</kettle>
+				<xbox>
+					<productId>50434e39-4430-3044-c037-38374e4c1200</productId>		
+					<downloadable>true</downloadable>
+					<advertise>true</advertise>
+					<useMarketplaceCheckoutUI>true</useMarketplaceCheckoutUI>
+				</xbox>
+			</dlc>
+			<dlc>
+				<uniqueId>0FFFF004</uniqueId>
+				<name>>FIFA 22 Italian Audio</name>
+				<gameIndex>0</gameIndex>
+				<medataData>0</medataData>
+				<dimeVersion>0</dimeVersion>
+				<kettle>
+					<productId>FIFA22ITALIAUDIO</productId>
+					<entitlementId>FIFA22ITALIAUDIO</entitlementId>
+					<downloadable>true</downloadable>
+					<advertise>true</advertise>
+					<useProductBrowse>true</useProductBrowse>
+				</kettle>
+				<xbox> <!-- there is no Italian audio DLC on Partner Center. We don't set up audio DLC on Partner Center anymore, but this tag may still be required. -->
+					<productId>00000000-0000-0000-0000-000000000000</productId>		
+					<downloadable>true</downloadable>
+					<advertise>true</advertise>
+					<useMarketplaceCheckoutUI>true</useMarketplaceCheckoutUI>
+				</xbox>
+			</dlc>
+			<dlc>
+				<uniqueId>0FFFF005</uniqueId>
+				<name>>FIFA 22 German Audio</name>
+				<gameIndex>0</gameIndex>
+				<medataData>0</medataData>
+				<dimeVersion>0</dimeVersion>
+				<kettle>
+					<productId>FIFA22GERMNAUDIO</productId>
+					<entitlementId>FIFA22GERMNAUDIO</entitlementId>
+					<downloadable>true</downloadable>
+					<advertise>true</advertise>
+					<useProductBrowse>true</useProductBrowse>
+				</kettle>
+				<xbox> <!-- there is no German audio DLC on Partner Center. We don't set up audio DLC on Partner centerx anymore, but this tag may still be required. -->
+					<productId>00000000-0000-0000-0000-000000000000</productId>		
+					<downloadable>true</downloadable>
+					<advertise>true</advertise>
+					<useMarketplaceCheckoutUI>true</useMarketplaceCheckoutUI>
+				</xbox>
+			</dlc>
+		</dlcs>
+	</content>
+</dime>
